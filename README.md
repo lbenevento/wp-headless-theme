@@ -1,8 +1,10 @@
 # Headless
 
-![Headless WordPress Theme](https://raw.githubusercontent.com/arnonate/headless-wordpress/master/screenshot.png)
+![Headless WordPress Theme](https://raw.githubusercontent.com/lbenevento/wp-headless-theme/main/screenshot.png)
 
-Headless is a WordPress theme intended to be used to basically disable WP themes altogheter. 
+Headless is a WordPress theme intended to be used to basically disable WP themes altogheter.
+
+Based on https://github.com/arnonate/headless-wordpress
 
 ## Highlights
 
